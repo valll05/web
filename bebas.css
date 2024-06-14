@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Halaman Baru</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            padding: 20px;
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        h1, h2 {
+            color: #333;
+        }
+        p {
+            margin-bottom: 15px;
+        }
+        a {
+            color: #007bff;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <h1>Selamat Datang di Halaman Baru!</h1>
+    <p>Ini adalah halaman contoh yang dibuat untuk menampilkan konten tambahan dari tautan Box 1.</p>
+    <p>Anda bisa menambahkan lebih banyak konten di sini sesuai kebutuhan.</p>
+    <p>Kembali ke <a href="index.html">halaman utama</a>.</p>
+</body>
+</html>
